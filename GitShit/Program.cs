@@ -10,11 +10,8 @@ namespace GitShit
     {
         static void Main(string[] args)
         {
-            //AAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH");
             Console.WriteLine("AAAAAAAHHHHHHHHHHHH");
             //AAAAAAAHHHHHHHHH
-
         }
     }
 }
